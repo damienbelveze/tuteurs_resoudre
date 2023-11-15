@@ -199,3 +199,5 @@ format:
 
 :::
 ::::
+
+## {background-image="images/questions.gif" background-size="contain"}
