@@ -1,0 +1,201 @@
+---
+title: "Gestion des tuteurs dans le cadre d'un bloc d'apprentissage"
+subtitle: tuteurs et formateurs dans RESOUDRE
+date: 14/11/2023
+author: Marie-Dominique Pinel & Damien Belvèze
+format: 
+    revealjs:
+        transition: convex
+        embed-resources: true
+        reveal_plugins: [menu]
+        theme: [dark]
+---
+
+# Gestion des tuteurs dans RESOUDRE {background-color="#fef1da"}
+
+- Force supplétive a priori mais en réalité force principale pour RESOUDRE (bloc hybride)
+- Ressource rare et complexe à gérer
+
+## Recrutement{background-color="#fef1da"}
+:::: {.columns}
+::: {.column width="50%" .incremental }
+
+![](images/logo_UR.png){width="200px"}
+
+- master, mais demain L3 (visites)
+- candidats rares (BU VS)
+- polyvalence
+
+:::
+::: {.column width="50%" .incremental}
+
+![](images/logo_UR2.png){width="100px"}
+
+- master, mais de moins en moins de master Recherche
+- Finalisation tardive (Merci Mon Master !)
+
+
+:::
+::::
+
+## Contrat{background-color="#fef1da"}
+:::: {.columns}
+::: {.column width="50%" .incremental}
+
+![](images/logo_UR.png){width="200px"}
+
+- 21€/h brut (forfait 2)
+- renouvelable
+- grande disparité dans les heures faites effectivement
+- arrondi favorable pour temps de préparation
+
+:::
+::: {.column width="50%" .incremental}
+
+![](images/logo_UR2.png){width="100px"}
+
+- 9h (dont temps préparation et formation)
+- 12€/h brut
+
+
+:::
+::::
+
+## Gestion administrative{background-color="#fef1da"}
+:::: {.columns}
+::: {.column width="50%"}
+
+![](images/logo_UR.png){width="200px"}
+
+- recrutés par coordinateurs en BU
+- les coordinateurs assurent la formation, le planning, l'aide au quotidien
+- ils établissent le service fait pour la compta du SCD
+
+:::
+::: {.column width="50%"}
+
+![](images/logo_UR2.png){width="100px"}
+
+- tuteurs recrutés par coordinateurs (enseignants)
+- rémunérés par UFR
+- Service Fait envoyé par le SCD
+
+
+:::
+::::
+
+## Disponibilité{background-color="#fef1da"}
+:::: {.columns}
+::: {.column width="50%" .incremental}
+
+![](images/logo_UR.png){width="200px"}
+
+- tuteurs = étudiants (pris par leur scola : cours, stages)
+- nécessité de les remplacer parfois (e.g plages matinales)
+- ils établissent le service fait pour la compta du SCD
+
+:::
+::: {.column width="50%" .incremental}
+
+![](images/logo_UR2.png){width="100px"}
+
+- tuteurs = étudiants (pris par leur scola : cours, stages)
+- créneaux peu motivants (vendredi à 18h-20h)
+- Manque de salle info
+
+
+:::
+::::
+
+## Conditions d'exercice{background-color="#fef1da"}
+:::: {.columns}
+::: {.column width="50%" .incremental}
+
+![](images/logo_UR.png){width="200px"}
+
+- parfois gros effectifs (40), diviser quand c'est possible
+- prévoir deux tuteurs par créneau, problème des salles
+- ils établissent le service fait pour la compta du SCD
+
+:::
+::: {.column width="50%" .incremental}
+
+![](images/logo_UR2.png){width="100px"}
+
+- parfois gros effectifs (40)
+- créneaux de 2h fixés par secrétariats (2X2h)
+
+:::
+::::
+
+## Formation{background-color="#fef1da" .smaller}
+:::: {.columns}
+::: {.column width="50%"}
+
+![](images/logo_UR.png){width="200px"}
+
+- formation rémunérée, fin août (juste pour les contrats !)
+- formation d'une journée dans "leur" bibliothèque
+- formation complémentaire pour tuteurs polyvalents
+- formations R1 puis plus tard R2
+
+:::
+::: {.column width="50%"}
+
+![](images/logo_UR2.png){width="100px"}
+
+- formation rémunérée
+- 2 heure de formation
+- tuteurs formés par formatrices du SCD
+- centralité du [livret en ligne](https://tutos.bu.univ-rennes2.fr/c.php?g=703050)
+
+:::
+::::
+## Retours des tuteurs{background-color="#fef1da" .smaller}
+:::: {.columns}
+::: {.column width="50%" .incremental}
+
+![](images/logo_UR.png){width="200px"}
+
+- satisfaction et problèmes recueillis par coordinateurices
+- idem pour les mises à jour des supports
+
+:::
+::: {.column width="50%" .incremental}
+
+![](images/logo_UR2.png){width="100px"}
+
+- envoi de documents au SCD par le tuteur :
+    * service fait
+    * émargement
+- recueil des remarques des enseignants coordinateurs
+- synthèse annuelle par le service formation du SCD
+
+:::
+::::
+
+## Organisation de la maquette{background-color="#fef1da" .smaller}
+:::: {.columns}
+::: {.column width="50%"}
+
+![](images/logo_UR.png){width="200px"}
+
+- RESOUDRE dans les majeures, de droit
+- mais de fait, une partie d'entre elles...
+- crédits ECTS chaque année Licence... ou seulement à la fin
+- adaptation des formats (présentiel) aux demandes des enseignants (négociation)
+
+:::
+::: {.column width="50%"}
+
+![](images/logo_UR2.png){width="100px"}
+
+- dans l'UE méthodo de tous les L1 (7 ECTS) :
+    * français (Ecri+) + travail universitaire
+    * méthodo disciplinaire
+    * outils
+        * - **compétences informationnelles** (1 crédit)
+        * - méthodologie informatique (1 crédit)
+
+:::
+::::
