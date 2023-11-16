@@ -16,6 +16,32 @@ format:
 - Force supplétive a priori mais en réalité force principale pour RESOUDRE (bloc hybride)
 - Ressource rare et complexe à gérer
 
+## Organisation de la maquette{background-color="#fef1da" .smaller}
+:::: {.columns}
+::: {.column width="50%"}
+
+![](images/logo_UR.png){width="200px"}
+
+- RESOUDRE dans les majeures, de droit
+- mais de fait, une partie d'entre elles...
+- crédits ECTS chaque année Licence... ou seulement à la fin
+- adaptation des formats (présentiel) aux demandes des enseignants (négociation)
+
+:::
+::: {.column width="50%"}
+
+![](images/logo_UR2.png){width="100px"}
+
+- dans l'UE méthodo de tous les L1 (7 ECTS) :
+    * français (Ecri+) + travail universitaire
+    * méthodo disciplinaire
+    * outils
+        * - **compétences informationnelles** (1 crédit)
+        * - méthodologie informatique (1 crédit)
+
+:::
+::::
+
 ## Recrutement{background-color="#fef1da"}
 :::: {.columns}
 ::: {.column width="50%" .incremental }
@@ -61,6 +87,30 @@ format:
 :::
 ::::
 
+## Formation{background-color="#fef1da" .smaller}
+:::: {.columns}
+::: {.column width="50%"}
+
+![](images/logo_UR.png){width="200px"}
+
+- formation rémunérée, fin août (juste pour les contrats !)
+- formation d'une journée dans "leur" bibliothèque
+- formation complémentaire pour tuteurs polyvalents
+- formations R1 puis plus tard R2
+
+:::
+::: {.column width="50%"}
+
+![](images/logo_UR2.png){width="100px"}
+
+- formation rémunérée
+- 2 heure de formation
+- tuteurs formés par formatrices du SCD
+- centralité du [livret en ligne](https://tutos.bu.univ-rennes2.fr/c.php?g=703050)
+
+:::
+::::
+
 ## Gestion administrative{background-color="#fef1da"}
 :::: {.columns}
 ::: {.column width="50%"}
@@ -92,7 +142,7 @@ format:
 
 - tuteurs = étudiants (pris par leur scola : cours, stages)
 - nécessité de les remplacer parfois (e.g plages matinales)
-- ils établissent le service fait pour la compta du SCD
+
 
 :::
 ::: {.column width="50%" .incremental}
@@ -101,7 +151,7 @@ format:
 
 - tuteurs = étudiants (pris par leur scola : cours, stages)
 - créneaux peu motivants (vendredi à 18h-20h)
-- Manque de salle info
+- Manque de salles info
 
 
 :::
@@ -115,7 +165,7 @@ format:
 
 - parfois gros effectifs (40), diviser quand c'est possible
 - prévoir deux tuteurs par créneau, problème des salles
-- ils établissent le service fait pour la compta du SCD
+
 
 :::
 ::: {.column width="50%" .incremental}
@@ -128,29 +178,7 @@ format:
 :::
 ::::
 
-## Formation{background-color="#fef1da" .smaller}
-:::: {.columns}
-::: {.column width="50%"}
 
-![](images/logo_UR.png){width="200px"}
-
-- formation rémunérée, fin août (juste pour les contrats !)
-- formation d'une journée dans "leur" bibliothèque
-- formation complémentaire pour tuteurs polyvalents
-- formations R1 puis plus tard R2
-
-:::
-::: {.column width="50%"}
-
-![](images/logo_UR2.png){width="100px"}
-
-- formation rémunérée
-- 2 heure de formation
-- tuteurs formés par formatrices du SCD
-- centralité du [livret en ligne](https://tutos.bu.univ-rennes2.fr/c.php?g=703050)
-
-:::
-::::
 ## Retours des tuteurs{background-color="#fef1da" .smaller}
 :::: {.columns}
 ::: {.column width="50%" .incremental}
@@ -174,30 +202,5 @@ format:
 :::
 ::::
 
-## Organisation de la maquette{background-color="#fef1da" .smaller}
-:::: {.columns}
-::: {.column width="50%"}
-
-![](images/logo_UR.png){width="200px"}
-
-- RESOUDRE dans les majeures, de droit
-- mais de fait, une partie d'entre elles...
-- crédits ECTS chaque année Licence... ou seulement à la fin
-- adaptation des formats (présentiel) aux demandes des enseignants (négociation)
-
-:::
-::: {.column width="50%"}
-
-![](images/logo_UR2.png){width="100px"}
-
-- dans l'UE méthodo de tous les L1 (7 ECTS) :
-    * français (Ecri+) + travail universitaire
-    * méthodo disciplinaire
-    * outils
-        * - **compétences informationnelles** (1 crédit)
-        * - méthodologie informatique (1 crédit)
-
-:::
-::::
 
 ## {background-image="images/questions.gif" background-size="contain"}
